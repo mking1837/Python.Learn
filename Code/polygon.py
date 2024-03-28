@@ -7,7 +7,7 @@ for p in range(24):
         t.fd(15)
 
 t.penup()
-t.bd(200)
+t.bk(200)
 t.write('Polygon Using Python Turtle Graphics')
-t.bd(50)
+t.bk(50)
 t.write('Made By Muhammed Mohsin(mdev1836)')
